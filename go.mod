@@ -1,3 +1,3 @@
-module github.com/coral/fluidsynth2
+module github.com/NETponents-LLC/go-fluidsynth2
 
-go 1.22
+go 1.24
